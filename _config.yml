@@ -9,7 +9,7 @@
 title: PAF 514 M5 Jekyll Practice
 
 # Your name to show in the footer
-author: Ana Egatz-Gomez
+author: Ana Egatz Gomez
 
 # --- List of links in the navigation bar --- #
 
@@ -44,7 +44,7 @@ social-network-links:
   
 #  medium: yourname
 #  reddit: yourname
-  linkedin: https://www.linkedin.com/in/ana-egatz-gomez-200aaa16/
+ # linkedin: https://www.linkedin.com/in/ana-egatz-gomez-200aaa16/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -58,7 +58,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-  google-scholar: https://scholar.google.com/citations?user=d0F-684AAAAJ&hl=en
+#  google-scholar: https://scholar.google.com/citations?user=d0F-684AAAAJ&hl=en
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
 rss-description: This website is a virtual proof that I'm awesome
@@ -98,7 +98,7 @@ post_search: true
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
+page-col: "#606C38"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
@@ -189,7 +189,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Phoenix"
+timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
