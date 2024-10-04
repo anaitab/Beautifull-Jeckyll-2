@@ -14,7 +14,8 @@ author: Ana Egatz Gomez
 
 # Define URL
 
-url: https://anaitab.github.io/Beautifull-Jeckyll-2/
+url: https://anaitab.github.io
+baseurl: /Beautifull-Jeckyll-2
 
 # --- List of links in the navigation bar --- #
 
