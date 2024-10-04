@@ -277,7 +277,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 
 <style>
-<!-- <h3> headers between <div class=gs-section-01> tags 
+<!-- <h3> headers between <div class=gs-section-01> tags --> 
 
 .gs-section-01 h3 { 
    color: red
