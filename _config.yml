@@ -11,6 +11,12 @@ title: PAF 514 M5 Jekyll Practice
 # Your name to show in the footer
 author: Ana Egatz Gomez
 
+
+# Define URL
+
+url: assets/img
+
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
