@@ -91,6 +91,9 @@ After you save your changes to the config file (by clicking on *Commit changes* 
 Note that in the video above I only edited one setting in the `_config.yml` file. **You should actually go through the rest of the settings as well. Don't be lazy, go through all the settings :)**
 
 
+
+
+
 ## The hard way (using ruby gems)
 
 If you followed the easy method above, then you already have your site and you can skip this section! If you want to install beautiful-jekyll using ruby gems instead, follow the [advanced installation instructions](https://beautifuljekyll.com/getstarted/#install-steps-hard). 
@@ -276,17 +279,16 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 - If there are many navigation bar links and an avatar, some of the links may get partially hidden behind the avatar. I suggest either re-thinking the number of links, or not using an avatar.
 
 
-<style>
-<!-- <h3> headers between <div class=gs-section-01> tags --> 
+<style> 
 
 .gs-section-01 h3 { 
    color: red
 }
 
-<!-- only <h3> headers between <div class=gs-section-02> tags -->
 
 .gs-section-02 h3 { 
    color: blue
 }
+  
 <style>
 
